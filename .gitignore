@@ -3,3 +3,8 @@ script.txt
 
 # Datasets
 datasets/
+
+**.DS_Store
+
+**.ipynb_checkpoints
+

@@ -10,5 +10,4 @@ datasets/
 **output
 **runs
 
-
-**./State_Farm_Distracted_Driver_Detection/yolov8n-cls.pt
+State_Farm_Distracted_Driver_Detection/yolov8n-cls.pt

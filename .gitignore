@@ -9,3 +9,4 @@ datasets/
 **.ipynb_checkpoints
 **output
 **yolov9c.pt
+**./State_Farm_Distracted_Driver_Detection/yolov9c.pt

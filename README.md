@@ -12,4 +12,5 @@ In our project, we have trained the dataset using the following models and compa
 5. **Yolo v8 Model**
 
 I have modified the code and posted it in the Kaggle Website.
-Updated Project [Link].(https://www.kaggle.com/code/ichigoku/distraction-detection-using-vgg16-resnet50-yolo) 
+
+Updated Project [Link.](https://www.kaggle.com/code/ichigoku/distraction-detection-using-vgg16-resnet50-yolo) 
